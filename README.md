@@ -1,6 +1,6 @@
 # Hi there, I'm Steffen 👋
 
-🚀 Fullstack Software Engineer • Freelancer • Founder of [Loreweaver Solutions](https://github.com/Loreweaver-Solutions)  
+🚀 Fullstack Software Engineer • Freelancer / Founder of [Loreweaver Solutions](https://loreweaver.solutions)  
 
 I design and build scalable solutions for **Event IT**, **Industry 4.0**, and **Consulting**.  
 My focus is on creating reliable systems that work under pressure – from high-traffic festival ordering systems to industrial backend integrations.  
